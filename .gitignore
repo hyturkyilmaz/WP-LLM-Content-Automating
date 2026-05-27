@@ -1,0 +1,19 @@
+# Zip files
+*.zip
+
+# Firebase
+firebase-debug.log
+.firebaserc
+firebase.json
+
+# Kilo / dev tools
+.kilo/
+.sixth/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.code-workspace
